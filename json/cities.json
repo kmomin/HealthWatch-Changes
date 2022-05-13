@@ -1,0 +1,207 @@
+[
+    {
+        "city": "ladakh",
+        "state": "jammu and kashmir"
+    }, {
+        "city": "jammu & kashmir",
+        "state": "jammu and kashmir"
+    }, {
+        "city": "amritsar",
+        "state": "punjab"
+    }, {
+        "city": "ludhiana",
+        "state": "punjab"
+    }, {
+        "city": "jalandhar",
+        "state": "punjab"
+    }, {
+        "city": "chandigarh",
+        "state": "punjab and haryana"
+    }, {
+        "city": "mohali",
+        "state": "punjab"
+    }, {
+        "city": "dehradun",
+        "state": "uttarakhand"
+    }, {
+        "city": "haridwar",
+        "state": "uttarakhand"
+    }, {
+        "city": "bareilly",
+        "state": "uttar pradesh"
+    }, {
+        "city": "haldwani",
+        "state": "uttarakhand"
+    }, {
+        "city": "kanpur",
+        "state": "uttar pradesh"
+    }, {
+        "city": "lucknow",
+        "state": "uttar pradesh"
+    }, {
+        "city": "allahabad",
+        "state": "uttar pradesh"
+    }, {
+        "city": "varanasi",
+        "state": "uttar pradesh"
+    }, {
+        "city": "raebareli",
+        "state": "uttar pradesh"
+    }, {
+        "city": "durgapur",
+        "state": "west bengal"
+    }, {
+        "city": "siliguri",
+        "state": "west bengal"
+    }, {
+        "city": "guwahati",
+        "state": "assam"
+    }, {
+        "city": "shillong",
+        "state": "meghalaya"
+    }, {
+        "city": "dibrugarh",
+        "state": "assam"
+    }, {
+        "city": "dimapur",
+        "state": "nagaland"
+    }, {
+        "city": "silchar",
+        "state": "assam"
+    }, {
+        "city": "kolkata",
+        "state": "west bengal"
+    }, {
+        "city": "rourkela",
+        "state": "odisha"
+    }, {
+        "city": "bilaspur",
+        "state": "chhattisgarh"
+    }, {
+        "city": "raipur",
+        "state": "chhattisgarh"
+    }, {
+        "city": "durg",
+        "state": "chhattisgarh"
+    }, {
+        "city": "bhilai",
+        "state": "chhattisgarh"
+    }, {
+        "city": "bhubaneshwar",
+        "state": "odisha"
+    }, {
+        "city": "cuttack",
+        "state": "odisha"
+    }, {
+        "city": "behrampur",
+        "state": "odisha"
+    }, {
+        "city": "ahmedabad",
+        "state": "gujarat"
+    }, {
+        "city": "surat",
+        "state": "gujarat"
+    }, {
+        "city": "bhopal",
+        "state": "madhya pradesh"
+    }, {
+        "city": "indore",
+        "state": "madhya pradesh"
+    }, {
+        "city": "jabalpur",
+        "state": "madhya pradesh"
+    }, {
+        "city": "nagpur",
+        "state": "maharashtra"
+    }, {
+        "city": "goa",
+        "state": "goa"
+    }, {
+        "city": "hubli",
+        "state": "karnataka"
+    }, {
+        "city": "dharwad",
+        "state": "karnataka"
+    }, {
+        "city": "hyderabad",
+        "state": "telangana"
+    }, {
+        "city": "secunderabad",
+        "state": "telangana"
+    }, {
+        "city": "visakhapatnam",
+        "state": "andhra pradesh"
+    }, {
+        "city": "vijaywada",
+        "state": "andhra pradesh"
+    }, {
+        "city": "tirupati",
+        "state": "andhra pradesh"
+    }, {
+        "city": "mysuru",
+        "state": "karnataka"
+    }, {
+        "city": "mangalore",
+        "state": "karnataka"
+    }, {
+        "city": "kozhikode",
+        "state": "kerala"
+    }, {
+        "city": "coimbatore",
+        "state": "tamil nadu"
+    }, {
+        "city": "ernakulam",
+        "state": "kerala"
+    }, {
+        "city": "thrissur",
+        "state": "kerala"
+    }, {
+        "city": "kottayam",
+        "state": "kerala"
+    }, {
+        "city": "thiruvanantapuram",
+        "state": "kerala"
+    }, {
+        "city": "kollam",
+        "state": "kerala"
+    }, {
+        "city": "trichy",
+        "state": "tamil nadu"
+    }, {
+        "city": "madurai",
+        "state": "tamil nadu"
+    }, {
+        "city": "erode",
+        "state": "tamil nadu"
+    }, {
+        "city": "puducherry",
+        "state": "tamil nadu"
+    }, {
+        "city": "new delhi",
+        "state": "delhi"
+    }, {
+        "city": "ncr",
+        "state": "delhi"
+    }, {
+        "city": "mumbai",
+        "state": "maharashtra"
+    }, {
+        "city": "navi mumbai",
+        "state": "maharashtra"
+    }, {
+        "city": "banglore",
+        "state": "karnataka"
+    }, {
+        "city": "salem",
+        "state": "tamil nadu"
+    }, {
+        "city": "vellore",
+        "state": "tamil nadu"
+    }, {
+        "city": "chennai",
+        "state": "tamil nadu"
+    }, {
+        "city": "nellore",
+        "state": "andhra pradesh"
+    }
+]

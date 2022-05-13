@@ -5794,6 +5794,10 @@ input:-webkit-autofill:active {
 
 .test-booking .booking-banner .bg-img {
     width: 100%;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
 }
 
 .test-booking .booking-banner .arrow-down {

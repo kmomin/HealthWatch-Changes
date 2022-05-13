@@ -13,7 +13,8 @@
   <!-- START:: booking-banner -->
   <section class="booking-banner">
     <div id="particles-js"></div>
-    <img src="images/testBooking-bg.jpg" class="bg-img" />
+    <!-- <img src="images/testBooking-bg.jpg" class="bg-img" /> -->
+    <div class="bg-img" style="background-image: url('images/testBooking-bg.jpg');"></div>
     <img src="images/arrow-down-icon.png" class="arrow-down" />
   </section>
   <!-- END:: booking-banner -->
